@@ -13,12 +13,12 @@ SmartCard is a modern Android application that allows two newly acquainted users
 
 ## 📸 Screenshots
 
-> ![HomeScreen](screenshot/1.png)
-> ![ShareScreen](screenshot/2.png)
-> ![EditScreen](screenshot/3.png)
-> ![AddAccountScreen](screenshot/4.png)
-> ![SupportedSocialMedia](screenshot/5.png)
-> ![SavedContactsScreen](screenshot/6.png)
+> ![HomeScreen](screenshot/1.jpg)
+> ![ShareScreen](screenshot/2.jpg)
+> ![EditScreen](screenshot/3.jpg)
+> ![AddAccountScreen](screenshot/4.jpg)
+> ![SupportedSocialMedia](screenshot/5.jpg)
+> ![SavedContactsScreen](screenshot/6.jpg)
 
 
 ## 🛠️ Tech Stack
