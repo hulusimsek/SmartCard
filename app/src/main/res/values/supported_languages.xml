@@ -1,0 +1,6 @@
+<resources>
+    <string-array name="supported_languages">
+        <item>en</item>
+        <item>tr</item>
+    </string-array>
+</resources>

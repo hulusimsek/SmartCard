@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">SmartCard</string>
+
+    <string name="service_name">SmartCardNFC</string>
+
+    <string name="user_name">Name</string>
+    <string name="user_surname">Surname</string>
+    <string name="links">Links</string>
+
+    <string name="phone">PHONE</string>
+
+    <string name="edit">Edit</string>
+    <string name="all_user">Saved Users</string>
+    <string name="share_with_nfc">Share via NFC</string>
+    <string name="share_button">Share</string>
+    <string name="profile_photo">Profile Photo</string>
+
+    <string name="nfc_listen">NFC Listen</string>
+    <string name="qr_camera">QR Camera</string>
+    <string name="share_via_qr">Share via QR</string>
+
+
+    <!-- Edit Screen -->
+    <string name="loading">Loading</string>
+    <string name="camera_permission_required">Camera permission is required</string>
+    <string name="select_profile_photo">Select Profile Photo</string>
+    <string name="where_select_photo">Where would you like to select your profile photo from?</string>
+    <string name="select_from_gallery">Select from Gallery</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="first_name">First Name</string>
+    <string name="first_name_required">First name cannot be empty</string>
+    <string name="last_name">Last Name</string>
+    <string name="last_name_required">Last name cannot be empty</string>
+    <string name="social_media_accounts">Social Media Accounts</string>
+    <string name="add_account">Add Account</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+
+    <!-- Social Media Account Screen -->
+    <string name="back">Back</string>
+    <string name="add_social_media_account">Add Social Media Account</string>
+    <string name="select_platform">Select Platform</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="enter_valid_phone_number">Please enter a valid phone number</string>
+    <string name="username">Username</string>
+    <string name="username_required">Username cannot be empty</string>
+    <string name="description_optional">Description (Optional)</string>
+    <string name="platform_account">%1$s Account</string>
+    <string name="enter_username">Enter username</string>
+    <string name="save_account">Save Account</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Social Platform Dropdown Screen -->
+    <string name="social_platform">Social Platform</string>
+    <string name="dropdown">Dropdown</string>
+
+    <!-- Friend Screen -->
+    <string name="received_contact_info">Contact Information</string>
+    <string name="save_contact">Save Contact</string>
+    <string name="open_link">Open Link</string>
+    <string name="contact_saved_success">Contact saved successfully</string>
+    <string name="contact_save_error">An error occurred while saving the contact</string>
+    <string name="invalid_data_format">Invalid data format</string>
+    <string name="data_processing_error">An error occurred while processing data</string>
+    <string name="received_from">From: %1$s</string>
+
+
+    <!-- AllUsersScreen -->
+    <string name="all_users">All Users</string>
+    <string name="search">Search</string>
+    <string name="search_users">Search users...</string>
+    <string name="clear_search">Clear search</string>
+    <string name="no_users_found">No users found matching your criteria</string>
+    <string name="no_saved_users">You haven\'t saved any users yet</string>
+    <string name="unknown_user">Unknown User</string>
+    <string name="added_date">Added: %1$s</string>
+    <string name="retry">Retry</string>
+
+    <!-- User Item -->
+    <string name="delete_user">Delete user</string>
+    <string name="delete_user_title">Delete User</string>
+    <string name="delete_user_message">Are you sure you want to delete the user named %1$s? This action cannot be undone.</string>
+
+    <!-- Plurals for user count -->
+    <plurals name="users_count">
+        <item quantity="zero">No users found</item>
+        <item quantity="one">%d user</item>
+        <item quantity="other">%d users</item>
+    </plurals>
+
+    <!-- Error messages -->
+    <string name="error_loading_users">An error occurred while loading users</string>
+    <string name="error_deleting_user">An error occurred while deleting the user</string>
+    <string name="error_unknown">An unknown error occurred</string>
+
+    <string name="error_user_data_not_processed">User data could not be processed</string>
+    <string name="error_data_read">Data read error: %1$s</string>
+    <string name="error_occurred">An error occurred</string>
+    <string name="error_user_info_not_found">User information not found</string>
+    <string name="error_username_empty">Username cannot be empty</string>
+    <string name="error_invalid_parameter">Invalid parameter</string>
+    <string name="error_cannot_open_platform">%1$s %2$s could not be opened: %3$s</string>
+
+    <!-- Accessibility -->
+    <string name="user_options">User options</string>
+
+    <!-- Country DropDown -->
+    <string name="code">Code</string>
+    <string name="title_activity_capture_portrait">CaptureActivityPortrait</string>
+</resources>

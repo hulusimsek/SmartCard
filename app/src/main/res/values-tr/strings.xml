@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">SmartCard</string>
+
+    <string name="service_name">SmartCardNFC</string>
+
+    <string name="user_name">Adınız</string>
+    <string name="user_surname">Soyadınız</string>
+
+    <string name="links">Bağlantılar</string>
+
+    <string name="phone">TELEFON</string>
+
+    <string name="edit">Düzenle</string>
+    <string name="all_user">Kayıtlı Kullanıcılar</string>
+    <string name="share_with_nfc">NFC ile Paylaş</string>
+    <string name="share_button">Paylaş</string>
+    <string name="profile_photo">Profil Fotoğrafı</string>
+
+    <string name="nfc_listen">NFC Dinleme</string>
+    <string name="qr_camera">QR Kamera</string>
+    <string name="share_via_qr">QR ile Paylaş</string>
+
+    <!-- Edit Screen -->
+    <string name="loading">Yükleniyor</string>
+    <string name="camera_permission_required">Kamera izni gereklidir</string>
+    <string name="select_profile_photo">Profil Fotoğrafı Seçin</string>
+    <string name="where_select_photo">Profil fotoğrafınızı nereden seçmek istersiniz?</string>
+    <string name="select_from_gallery">Galeriden Seç</string>
+    <string name="take_photo">Fotoğraf Çek</string>
+    <string name="first_name">Ad</string>
+    <string name="first_name_required">Ad boş bırakılamaz</string>
+    <string name="last_name">Soyad</string>
+    <string name="last_name_required">Soyad boş bırakılamaz</string>
+    <string name="social_media_accounts">Sosyal Medya Hesapları</string>
+    <string name="add_account">Hesap Ekle</string>
+    <string name="delete">Sil</string>
+    <string name="save">Kaydet</string>
+
+    <!-- Social Media Account Screen -->
+    <string name="back">Geri</string>
+    <string name="add_social_media_account">Sosyal Medya Hesabı Ekle</string>
+    <string name="select_platform">Platform Seçin</string>
+    <string name="phone_number">Telefon Numarası</string>
+    <string name="enter_valid_phone_number">Geçerli telefon numarası giriniz</string>
+    <string name="username">Kullanıcı Adı</string>
+    <string name="username_required">Kullanıcı adı boş bırakılamaz</string>
+    <string name="description_optional">Açıklama (Opsiyonel)</string>
+    <string name="platform_account">%1$s Hesabı</string>
+    <string name="enter_username">Kullanıcı adı giriniz</string>
+    <string name="save_account">Hesabı Kaydet</string>
+    <string name="cancel">İptal</string>
+
+    <!-- Social Platform Dropdown Screen -->
+    <string name="social_platform">Sosyal Platform</string>
+    <string name="dropdown">Açılır Menü</string>
+
+    <!-- Friend Screen -->
+    <string name="received_contact_info">İletişim Bilgileri</string>
+    <string name="save_contact">Kişiyi Kaydet</string>
+    <string name="open_link">Bağlantıyı Aç</string>
+    <string name="contact_saved_success">Kişi başarıyla kaydedildi</string>
+    <string name="contact_save_error">Kişi kaydedilirken hata oluştu</string>
+    <string name="invalid_data_format">Geçersiz veri formatı</string>
+    <string name="data_processing_error">Veri işlenirken hata oluştu</string>
+    <string name="received_from">Kimden: %1$s</string>
+
+
+    <!-- AllUsersScreen için -->
+    <string name="all_users">Tüm Kullanıcılar</string>
+    <string name="search">Ara</string>
+    <string name="search_users">Kullanıcı ara...</string>
+    <string name="clear_search">Aramayı temizle</string>
+    <string name="no_users_found">Aradığınız kriterlere uygun kullanıcı bulunamadı</string>
+    <string name="no_saved_users">Henüz kaydettiğiniz kullanıcı bulunmuyor</string>
+    <string name="unknown_user">Bilinmeyen Kullanıcı</string>
+    <string name="added_date">Eklenme: %1$s</string>
+    <string name="retry">Tekrar Dene</string>
+
+    <!-- User Item için -->
+    <string name="delete_user">Kullanıcıyı sil</string>
+    <string name="delete_user_title">Kullanıcıyı Sil</string>
+    <string name="delete_user_message">%1$s adlı kullanıcıyı silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.</string>
+
+    <!-- Plurals for user count -->
+    <plurals name="users_count">
+        <item quantity="one">%d kullanıcı</item>
+        <item quantity="other">%d kullanıcı</item>
+    </plurals>
+
+    <!-- Error messages -->
+    <string name="error_loading_users">Kullanıcılar yüklenirken hata oluştu</string>
+    <string name="error_deleting_user">Kullanıcı silinirken hata oluştu</string>
+    <string name="error_unknown">Bilinmeyen bir hata oluştu</string>
+
+    <string name="error_user_data_not_processed">Kullanıcı verileri işlenemedi</string>
+    <string name="error_data_read">Veri okuma hatası: %1$s</string>
+    <string name="error_occurred">Hata oluştu</string>
+    <string name="error_user_info_not_found">Kullanıcı bilgileri bulunamadı</string>
+    <string name="error_username_empty">Kullanıcı adı boş olamaz</string>
+    <string name="error_invalid_parameter">Geçersiz parametre</string>
+    <string name="error_cannot_open_platform">%1$s %2$s açılamadı: %3$s</string>
+
+    <!-- Accessibility -->
+    <string name="user_options">Kullanıcı seçenekleri</string>
+
+    <!-- Country DropDown -->
+    <string name="code">Kod</string>
+</resources>
