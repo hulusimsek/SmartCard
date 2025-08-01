@@ -11,12 +11,11 @@ SmartCard is a modern Android application that allows two newly acquainted users
 - Shared data is stored locally and can be accessed or deleted later
 - Modern and intuitive UI with **Jetpack Compose**
 
-## 📸 Screenshots
 
 ## 📸 Screenshots
 
 <table border="0">
-><tr>
+<tr>
   <td><img src="screenshot/1.jpg" alt="HomeScreen" width="200" style="display:inline-block; margin: 10px;" /></td>
   <td><img src="screenshot/2.jpg" alt="ShareScreen" width="200" style="display:inline-block; margin: 10px;" /></td>
   <td><img src="screenshot/3.jpg" alt="EditScreen" width="200" style="display:inline-block; margin: 10px;" /></td>
